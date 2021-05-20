@@ -1,15 +1,8 @@
-Assignment 2: 
 
 Machine Learning with Deep Neural Networks
-MSc in Data Science and MSc in Games Development courses
+
 
 Topic:Timeseries forecasting for weather prediction and anomaly Detection
-
-Report Submitted By:
-
-Hanumanth Cherukuri        - k2046544
-Sruthi Somaraju            - k2037591
-Surendra Babu Pamulapati   - k2042379
 
 
 Contents of the folder:
